@@ -18,7 +18,7 @@ Features
 
 Cat Facts: Fetches a random fact about cats from https://catfact.ninja/fact.
 
-Dog Images: Displays a random dog image from https://dog.ceo/api/breeds/image/random.
+Dog Images: Displays a random dog image from https://dog.ceo/api/breeds/image/random. 
 
 Jokes: Retrieves a random joke from https://icanhazdadjoke.com/.
 
