@@ -36,44 +36,6 @@ Axios – HTTP requests to APIs
 
 Fetch API – Alternative HTTP request handling
 
-Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/yourusername/random-api-fetcher.git
-
-Navigate to the project directory:
-
-cd random-api-fetcher
-
-Open index.html in a browser.
-
-Usage
-
-Click the "Get Fact" button to fetch a random cat fact.
-
-Click the "Show Dog" button to display a random dog image.
-
-Click the "Get Jokes" button to get a random joke.
-
-Enter a country name and click "Get Universities" to fetch a list of universities.
-
-File Structure
-
-random-api-fetcher/
-│── index.html         # Main HTML file
-│── styles.css         # CSS for styling
-│── script.js         # JavaScript for API handling
-
-API Endpoints Used
-
-Cat Facts: https://catfact.ninja/fact
-
-Dog Images: https://dog.ceo/api/breeds/image/random
-
-Jokes: https://icanhazdadjoke.com/
-
-Universities: http://universities.hipolabs.com/search?name=
 
 Dependencies
 
